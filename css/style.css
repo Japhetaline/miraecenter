@@ -18,6 +18,13 @@
   }
   
   /* Hero section */
+  .hero {
+    background: url("../images/Background.png") no-repeat center center/cover;
+    height: 100vh;
+    position: relative;
+    color: #fff;
+  }
+
   .hero-first_text{
     width: 8%;
   }
